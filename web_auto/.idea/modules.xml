@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/web_auto.iml" filepath="$PROJECT_DIR$/.idea/web_auto.iml" />
+      <module fileurl="file://E:/web_pro/.idea/web_pro.iml" filepath="E:/web_pro/.idea/web_pro.iml" />
+    </modules>
+  </component>
+</project>
